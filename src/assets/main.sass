@@ -1,0 +1,17 @@
+@import "tailwindcss/base"
+@import "tailwindcss/components"
+@import "tailwindcss/utilities"
+@import "https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@600;700;800;900&display=swap"
+
+html, body
+    font-family: 'Nunito Sans', sans-serif
+
+* 
+    transition: all ease-in-out 100ms
+    @apply focus:outline-none
+
+
+@layer components 
+    .no-scrollbar::-webkit-scrollbar
+        @apply hidden
+
