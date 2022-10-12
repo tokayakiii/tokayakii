@@ -1,3 +1,1 @@
-### Hi there 👋
-
-![drawing](https://user-images.githubusercontent.com/115546774/195231021-2789a538-c054-4ca3-8a4e-3114ccbeeaeb.svg)
+![profile](https://user-images.githubusercontent.com/115546774/195360479-1e409055-831d-4704-8374-519bfb386ce2.svg)
